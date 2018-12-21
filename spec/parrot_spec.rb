@@ -24,7 +24,7 @@ describe '#parrot' do
   end
 end
 
-def parrot
+def parrot()
   parrot = "Squawk!"
   puts parrot
   return parrot
